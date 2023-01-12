@@ -1,1 +1,3 @@
-created the main python file
+import streamlit
+
+streamlit.title('I am learning to build applications within Snowflake')
